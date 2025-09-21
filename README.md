@@ -16,7 +16,8 @@ The goal is to generate **overall agent and borrower sentiment scores** per call
 ├── notebooks/
 │   ├── Prodigal_Assignment.ipynb  # Sentiment scoring pipeline
 ├── requirements.txt               # Python dependencies
-├── README.md                      # Instructions (this file)
+├── README.md                      # Instructions 
+├── Summary Document.pdf           # A short document answering the Assignment Questions
 ```
 
 ---
