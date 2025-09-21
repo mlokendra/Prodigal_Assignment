@@ -26,8 +26,8 @@ The goal is to generate **overall agent and borrower sentiment scores** per call
 ### 1. Clone the repo & move into it
 
 ```bash
-git clone <repo_url>
-cd <repo_name>
+git clone https://github.com/mlokendra/Prodigal_Assignment
+cd Prodigal_Assignment
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
