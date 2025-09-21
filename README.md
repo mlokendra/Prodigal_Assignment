@@ -14,7 +14,7 @@ The goal is to generate **overall agent and borrower sentiment scores** per call
 ├── conversations/                 # Folder of .txt transcripts (one file per call_id)
 ├── call_sentiment_scores.csv      # Output: agent & borrower sentiment scores
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb  # Sentiment scoring pipeline
+│   ├── Prodigal_Assignment.ipynb  # Sentiment scoring pipeline
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Instructions (this file)
 ```
